@@ -1,0 +1,4 @@
+﻿  Priority Queue.cpp
+E:\DSA Lab\Priority Queue\Priority Queue\Priority Queue.cpp(21,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\DSA Lab\Priority Queue\Priority Queue\Priority Queue.cpp(42,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Priority Queue.vcxproj -> E:\DSA Lab\Priority Queue\x64\Debug\Priority Queue.exe
