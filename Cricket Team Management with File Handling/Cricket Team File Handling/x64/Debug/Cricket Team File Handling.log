@@ -1,0 +1,3 @@
+﻿  Cricket Team File Handling.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Cricket Team File Handling.vcxproj -> E:\BSE-3A\DSA Lab\Cricket Team File Handling\x64\Debug\Cricket Team File Handling.exe
