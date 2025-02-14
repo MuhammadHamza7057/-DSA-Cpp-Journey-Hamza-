@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linkedlist Complete", "Linkedlist Complete\Linkedlist Complete.vcxproj", "{E31B7DDA-2A60-47A6-BCA9-57088CF85288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31B7DDA-2A60-47A6-BCA9-57088CF85288}.Debug|x64.ActiveCfg = Debug|x64
+		{E31B7DDA-2A60-47A6-BCA9-57088CF85288}.Debug|x64.Build.0 = Debug|x64
+		{E31B7DDA-2A60-47A6-BCA9-57088CF85288}.Debug|x86.ActiveCfg = Debug|Win32
+		{E31B7DDA-2A60-47A6-BCA9-57088CF85288}.Debug|x86.Build.0 = Debug|Win32
+		{E31B7DDA-2A60-47A6-BCA9-57088CF85288}.Release|x64.ActiveCfg = Release|x64
+		{E31B7DDA-2A60-47A6-BCA9-57088CF85288}.Release|x64.Build.0 = Release|x64
+		{E31B7DDA-2A60-47A6-BCA9-57088CF85288}.Release|x86.ActiveCfg = Release|Win32
+		{E31B7DDA-2A60-47A6-BCA9-57088CF85288}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1C71D1B-AA3E-4FB6-95CB-8603570B2D66}
+	EndGlobalSection
+EndGlobal
