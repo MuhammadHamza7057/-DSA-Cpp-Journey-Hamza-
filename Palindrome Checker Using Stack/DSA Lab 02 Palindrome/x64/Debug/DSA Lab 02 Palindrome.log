@@ -1,0 +1,3 @@
+﻿  Palandrome.cpp
+E:\BSE-3A\DSA Lab\DSA Lab 02 Palindrome\DSA Lab 02 Palindrome\Palandrome.cpp(10,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DSA Lab 02 Palindrome.vcxproj -> E:\BSE-3A\DSA Lab\DSA Lab 02 Palindrome\x64\Debug\DSA Lab 02 Palindrome.exe
